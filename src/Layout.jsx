@@ -73,7 +73,7 @@ export default function Layout({ children }) {
                 className="relative text-sm font-medium hover:text-[#64FFDA] transition-colors group focus:outline-none"
               >
                 {item.name}
-                <span className="absolute left-0 bottom-[-4px] w-0 h-px bg-[#64FFDA] transition-all duration-300 group-hover:w-full"></span>
+                <span className="absolute left-0 -bottom-1 w-0 h-px bg-[#64FFDA] transition-all duration-300 group-hover:w-full"></span>
               </button>
             ))}
             <a

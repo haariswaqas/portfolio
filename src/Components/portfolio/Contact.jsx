@@ -72,7 +72,7 @@ export default function Contact() {
                   </h3>
                   <a
                     href="mailto:haarisali9@gmail.com"
-                    className="text-[#007358] hover:underline break-words"
+                    className="text-[#007358] hover:underline wrap-break-word"
                   >
                     haarisali9@gmail.com
                   </a>
